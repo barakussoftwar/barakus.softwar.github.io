@@ -1,0 +1,166 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="barakus-software.ua" resolutions="1x" timestamp="1509538538373">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3914785915" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="female-hands-typing-computer-keyboard-using-desktop-computers-for-work-or-study-1920x1080-1080p-hd-format_qkxv5phi__f0000.png" crc="127309713" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a9b2702a97a2f2f.jpg" crc="159965866" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="microsoftdirectx.png" crc="4244623063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="microsoft_net_framework_v45_logo.png" crc="3826875192" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1373014594_logo-visual-c.png" crc="4116889656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u187.png" crc="3963516973" ref="index"/>
+    <file name="u187-r.png" crc="4069167558" ref="index"/>
+    <file name="u203.png" crc="2530502" ref="index"/>
+    <file name="u203-r.png" crc="3838541179" ref="index"/>
+    <file name="u213.png" crc="4042667752" ref="index"/>
+    <file name="u213-r.png" crc="3961249488" ref="index"/>
+    <file name="shejiyeiconrqr0hes4yh0.png" crc="414743292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u660.png" crc="4175749631" ref="index"/>
+    <file name="u660-r.png" crc="4180759203" ref="index"/>
+    <file name="u677.png" crc="4175749631" ref="index"/>
+    <file name="u677-r.png" crc="4180759203" ref="index"/>
+    <file name="u670.png" crc="4175749631" ref="index"/>
+    <file name="u670-r.png" crc="4180759203" ref="index"/>
+    <file name="microsoft-toolkit-254-windows-and-office-activator-free.png" crc="461665770" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kak-zayti-v-boot-menu-9.jpg" crc="275127234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kak-zayti-v-boot-menu-10.jpg" crc="3943497530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1600.png" crc="4121126325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="64bit.png" crc="63278307" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="computers_modern_laptop_and_retro_camera_089002_18.jpg" crc="3839158785" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7042187.png" crc="4262312617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="google_chrome_icon_(2011).png" crc="4108576709" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mozilla_firefox_35_logo_256.png" crc="4275925670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-viber.png" crc="4279678568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skype_png28.png" crc="148797836" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telegram_messenger.png" crc="3971824167" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="utorrent log fileseries fs.png" crc="518132396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1040.png" crc="4175749631" ref="index"/>
+    <file name="u1040-r.png" crc="4180759203" ref="index"/>
+    <file name="u1047.png" crc="4175749631" ref="index"/>
+    <file name="u1047-r.png" crc="4180759203" ref="index"/>
+    <file name="u1054.png" crc="4175749631" ref="index"/>
+    <file name="u1054-r.png" crc="4180759203" ref="index"/>
+    <file name="u1061.png" crc="4175749631" ref="index"/>
+    <file name="u1061-r.png" crc="4180759203" ref="index"/>
+    <file name="u964.png" crc="4175749631" ref="index"/>
+    <file name="u964-r.png" crc="4180759203" ref="index"/>
+    <file name="u957.png" crc="4175749631" ref="index"/>
+    <file name="u957-r.png" crc="4180759203" ref="index"/>
+    <file name="9db8a8265fe4.png" crc="3892558874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vlc_iconsvg.png" crc="29611343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aimp3_logo.png" crc="240596312" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="k-lite_codec_pack (1).png" crc="260446586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1329.png" crc="4267382444" ref="index"/>
+    <file name="u1329-r.png" crc="4055156291" ref="index"/>
+    <file name="u1336.png" crc="512662090" ref="index"/>
+    <file name="u1336-r.png" crc="262325059" ref="index"/>
+    <file name="u1343.png" crc="4243922982" ref="index"/>
+    <file name="u1343-r.png" crc="4016457047" ref="index"/>
+    <file name="u1641.png" crc="3791998407" ref="index"/>
+    <file name="u1641-r.png" crc="453962944" ref="index"/>
+    <file name="u1664.png" crc="4163139430" ref="index"/>
+    <file name="u1664-r.png" crc="3917362359" ref="index"/>
+    <file name="u1897.png" crc="3791998407" ref="index"/>
+    <file name="u1897-r.png" crc="453962944" ref="index"/>
+    <file name="wpapers_ru_macbook-pro.jpg" crc="76731692" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1469198519_photoshop-cs6.jpg" crc="3829755123" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adobe-dreamweaver-cc-2017-170.jpg" crc="294076626" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adobe-illustrator-cc-2017.jpg" crc="505884675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1798.png" crc="58604800" ref="index"/>
+    <file name="u1798-r.png" crc="4143360498" ref="index"/>
+    <file name="u1808.png" crc="3915296114" ref="index"/>
+    <file name="u1808-r.png" crc="3868371358" ref="index"/>
+    <file name="u1818.png" crc="3988257763" ref="index"/>
+    <file name="u1818-r.png" crc="111222086" ref="index"/>
+    <file name="u1838.png" crc="3900344252" ref="index"/>
+    <file name="u1838-r.png" crc="3797465645" ref="index"/>
+    <file name="u1848.png" crc="4093203953" ref="index"/>
+    <file name="u1848-r.png" crc="450112862" ref="index"/>
+    <file name="u1914.png" crc="3961920547" ref="index"/>
+    <file name="u1914-r.png" crc="4195804149" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4036662355" seo="true" mt="1509537488157" redirect="true"/>
+</manifest>
